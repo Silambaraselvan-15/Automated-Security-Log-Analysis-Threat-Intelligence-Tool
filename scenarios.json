@@ -1,0 +1,492 @@
+[
+    {
+        "scenario_id": 1,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 4 attempts",
+        "source_ip": "192.168.10.0",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 2,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 7 attempts",
+        "source_ip": "192.168.10.1",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 3,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 4 attempts",
+        "source_ip": "192.168.10.2",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 4,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 5 attempts",
+        "source_ip": "192.168.10.3",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 5,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 3 attempts",
+        "source_ip": "192.168.10.4",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 6,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 3 attempts",
+        "source_ip": "192.168.10.5",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 7,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 5 attempts",
+        "source_ip": "192.168.10.6",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 8,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 3 attempts",
+        "source_ip": "192.168.10.7",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 9,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 3 attempts",
+        "source_ip": "192.168.10.8",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 10,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 5 attempts",
+        "source_ip": "192.168.10.9",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 11,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 5 attempts",
+        "source_ip": "192.168.10.10",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 12,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 3 attempts",
+        "source_ip": "192.168.10.11",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 13,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 5 attempts",
+        "source_ip": "192.168.10.12",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 14,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 5 attempts",
+        "source_ip": "192.168.10.13",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 15,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 4 attempts",
+        "source_ip": "192.168.10.14",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 16,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 7 attempts",
+        "source_ip": "192.168.10.15",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 17,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 5 attempts",
+        "source_ip": "192.168.10.16",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 18,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 5 attempts",
+        "source_ip": "192.168.10.17",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 19,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 5 attempts",
+        "source_ip": "192.168.10.18",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 20,
+        "category": "AUTH-001",
+        "description": "SSH Brute Force with 5 attempts",
+        "source_ip": "192.168.10.19",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 21,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 3 IPs",
+        "target_user": "service_account_0",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 22,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 3 IPs",
+        "target_user": "service_account_1",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 23,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 3 IPs",
+        "target_user": "service_account_2",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 24,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 3 IPs",
+        "target_user": "service_account_3",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 25,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 5 IPs",
+        "target_user": "service_account_4",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 26,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 5 IPs",
+        "target_user": "service_account_5",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 27,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 3 IPs",
+        "target_user": "service_account_6",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 28,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 7 IPs",
+        "target_user": "service_account_7",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 29,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 3 IPs",
+        "target_user": "service_account_8",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 30,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 3 IPs",
+        "target_user": "service_account_9",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 31,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 3 IPs",
+        "target_user": "service_account_10",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 32,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 7 IPs",
+        "target_user": "service_account_11",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 33,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 5 IPs",
+        "target_user": "service_account_12",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 34,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 3 IPs",
+        "target_user": "service_account_13",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 35,
+        "category": "AUTH-002",
+        "description": "Distributed attack from 3 IPs",
+        "target_user": "service_account_14",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 36,
+        "category": "AUTH-003",
+        "description": "Enumeration of 4 accounts",
+        "source_ip": "172.16.50.0",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 37,
+        "category": "AUTH-003",
+        "description": "Enumeration of 4 accounts",
+        "source_ip": "172.16.50.1",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 38,
+        "category": "AUTH-003",
+        "description": "Enumeration of 2 accounts",
+        "source_ip": "172.16.50.2",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 39,
+        "category": "AUTH-003",
+        "description": "Enumeration of 6 accounts",
+        "source_ip": "172.16.50.3",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 40,
+        "category": "AUTH-003",
+        "description": "Enumeration of 3 accounts",
+        "source_ip": "172.16.50.4",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 41,
+        "category": "AUTH-003",
+        "description": "Enumeration of 4 accounts",
+        "source_ip": "172.16.50.5",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 42,
+        "category": "AUTH-003",
+        "description": "Enumeration of 3 accounts",
+        "source_ip": "172.16.50.6",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 43,
+        "category": "AUTH-003",
+        "description": "Enumeration of 4 accounts",
+        "source_ip": "172.16.50.7",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 44,
+        "category": "AUTH-003",
+        "description": "Enumeration of 6 accounts",
+        "source_ip": "172.16.50.8",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 45,
+        "category": "AUTH-003",
+        "description": "Enumeration of 3 accounts",
+        "source_ip": "172.16.50.9",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 46,
+        "category": "AUTH-003",
+        "description": "Enumeration of 3 accounts",
+        "source_ip": "172.16.50.10",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 47,
+        "category": "AUTH-003",
+        "description": "Enumeration of 4 accounts",
+        "source_ip": "172.16.50.11",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 48,
+        "category": "AUTH-003",
+        "description": "Enumeration of 4 accounts",
+        "source_ip": "172.16.50.12",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 49,
+        "category": "AUTH-003",
+        "description": "Enumeration of 4 accounts",
+        "source_ip": "172.16.50.13",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 50,
+        "category": "AUTH-003",
+        "description": "Enumeration of 4 accounts",
+        "source_ip": "172.16.50.14",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 51,
+        "category": "WEB-001",
+        "description": "Web request to index.php?id=' OR '1'='1",
+        "source_ip": "203.0.113.0",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 52,
+        "category": "WEB-001",
+        "description": "Web request to index.php?id=' OR '1'='1",
+        "source_ip": "203.0.113.1",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 53,
+        "category": "WEB-001",
+        "description": "Web request to index.php?id=' OR '1'='1",
+        "source_ip": "203.0.113.2",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 54,
+        "category": "WEB-001",
+        "description": "Web request to about.html",
+        "source_ip": "203.0.113.3",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 55,
+        "category": "WEB-001",
+        "description": "Web request to search?q=;whoami",
+        "source_ip": "203.0.113.4",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 56,
+        "category": "WEB-001",
+        "description": "Web request to api/v1/health",
+        "source_ip": "203.0.113.5",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 57,
+        "category": "WEB-001",
+        "description": "Web request to api/v1/health",
+        "source_ip": "203.0.113.6",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 58,
+        "category": "WEB-001",
+        "description": "Web request to about.html",
+        "source_ip": "203.0.113.7",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 59,
+        "category": "WEB-001",
+        "description": "Web request to about.html",
+        "source_ip": "203.0.113.8",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 60,
+        "category": "WEB-001",
+        "description": "Web request to ../../etc/passwd",
+        "source_ip": "203.0.113.9",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 61,
+        "category": "WEB-001",
+        "description": "Web request to search?q=;whoami",
+        "source_ip": "203.0.113.10",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 62,
+        "category": "WEB-001",
+        "description": "Web request to api/v1/health",
+        "source_ip": "203.0.113.11",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 63,
+        "category": "WEB-001",
+        "description": "Web request to search?q=;whoami",
+        "source_ip": "203.0.113.12",
+        "expected_detection": true
+    },
+    {
+        "scenario_id": 64,
+        "category": "WEB-001",
+        "description": "Web request to api/v1/health",
+        "source_ip": "203.0.113.13",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 65,
+        "category": "WEB-001",
+        "description": "Web request to about.html",
+        "source_ip": "203.0.113.14",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 66,
+        "category": "BENIGN",
+        "description": "Normal user password typo then success",
+        "source_ip": "198.51.100.0",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 67,
+        "category": "BENIGN",
+        "description": "Normal user password typo then success",
+        "source_ip": "198.51.100.1",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 68,
+        "category": "BENIGN",
+        "description": "Normal user password typo then success",
+        "source_ip": "198.51.100.2",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 69,
+        "category": "BENIGN",
+        "description": "Normal user password typo then success",
+        "source_ip": "198.51.100.3",
+        "expected_detection": false
+    },
+    {
+        "scenario_id": 70,
+        "category": "BENIGN",
+        "description": "Normal user password typo then success",
+        "source_ip": "198.51.100.4",
+        "expected_detection": false
+    }
+]

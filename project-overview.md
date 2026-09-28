@@ -44,7 +44,7 @@ The objective is to:
                           │ DETECTION ENGINE       │
                           │                        │
                           │ Rule 1: Brute Force    │
-                          │ Rule 2: Distributed DOS│
+                          │ Rule 2: Distributed    │
                           │ Rule 3: Web Attack     │
                           │ Rule 4: Multi-user     │
                           └──────────┬─────────────┘

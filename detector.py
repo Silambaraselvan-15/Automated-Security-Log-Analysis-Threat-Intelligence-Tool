@@ -46,7 +46,7 @@ class DetectionEngine:
         five_mins_ago = current_time - timedelta(minutes=5)
         self.ssh_failures_by_ip[ip] = [t for t in self.ssh_failures_by_ip[ip] if t >= five_mins_ago]
         
-        if len(self.ssh_failures_by_ip[ip]) >= 5:
+        if len(self.ssh_failures_by_ip[ip]) >= 3:
             self.alerts.append({
                 "rule_id": "AUTH-001",
                 "alert": "SSH Brute Force",
