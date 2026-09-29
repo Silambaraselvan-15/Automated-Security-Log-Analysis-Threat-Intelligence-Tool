@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "analysis_time": "2026-09-27 12:57:13",
+        "analysis_time": "2026-09-29 15:35:57",
         "logs_analyzed": {
             "ssh": 329,
             "apache": 15,
@@ -13,441 +13,441 @@
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.2",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.3",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.4",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.5",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.6",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.7",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.8",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.9",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.10",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.11",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.12",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.13",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.14",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.15",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.15",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.16",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.17",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.18",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "192.168.10.19",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.0.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.0.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.0.2",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.1.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.1.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.1.2",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.2.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.2.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.2.2",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.3.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.3.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-002",
             "alert": "Distributed Authentication Attack",
             "target_account": "service_account_5",
             "source_ips_involved": [
-                "10.0.5.3",
-                "10.0.5.4",
-                "10.0.5.2",
                 "10.0.5.1",
-                "10.0.5.0"
+                "10.0.5.4",
+                "10.0.5.3",
+                "10.0.5.0",
+                "10.0.5.2"
             ],
             "severity": "CRITICAL",
             "evidence": "10 failures from 5 IPs in 10 mins",
@@ -462,222 +462,222 @@
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.5.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.5.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.5.2",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.5.3",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.5.4",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.6.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.6.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.6.2",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.8.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.8.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.8.2",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.9.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.9.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.10.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.10.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.10.2",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-002",
             "alert": "Distributed Authentication Attack",
             "target_account": "service_account_11",
             "source_ips_involved": [
-                "10.0.11.3",
-                "10.0.11.6",
                 "10.0.11.5",
+                "10.0.11.3",
                 "10.0.11.0",
-                "10.0.11.4",
                 "10.0.11.1",
-                "10.0.11.2"
+                "10.0.11.2",
+                "10.0.11.6",
+                "10.0.11.4"
             ],
             "severity": "CRITICAL",
             "evidence": "10 failures from 7 IPs in 10 mins",
@@ -692,79 +692,79 @@
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.13.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.13.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.13.2",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.14.0",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.14.1",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
             "alert": "SSH Brute Force",
             "source_ip": "10.0.14.2",
-            "severity": "HIGH",
+            "severity": "CRITICAL",
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
-                "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "abuse_score": 87,
+                "country": "XX",
+                "isp": "Simulated Malicious ISP"
             },
-            "risk_score": 70
+            "risk_score": 90
         },
         {
             "rule_id": "AUTH-001",
@@ -774,8 +774,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -784,17 +784,17 @@
             "alert": "Multi-Account Authentication Attack",
             "source_ip": "172.16.50.0",
             "target_accounts": [
-                "user_3",
                 "user_1",
                 "user_0",
+                "user_3",
                 "user_2"
             ],
             "severity": "HIGH",
             "evidence": "Targeted 4 distinct accounts in 10 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -806,8 +806,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -816,17 +816,17 @@
             "alert": "Multi-Account Authentication Attack",
             "source_ip": "172.16.50.1",
             "target_accounts": [
-                "user_3",
                 "user_1",
                 "user_0",
+                "user_3",
                 "user_2"
             ],
             "severity": "HIGH",
             "evidence": "Targeted 4 distinct accounts in 10 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -838,8 +838,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -848,17 +848,17 @@
             "alert": "Multi-Account Authentication Attack",
             "source_ip": "172.16.50.3",
             "target_accounts": [
-                "user_3",
                 "user_1",
                 "user_0",
+                "user_3",
                 "user_2"
             ],
             "severity": "HIGH",
             "evidence": "Targeted 4 distinct accounts in 10 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -870,8 +870,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -883,8 +883,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -896,8 +896,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -906,17 +906,17 @@
             "alert": "Multi-Account Authentication Attack",
             "source_ip": "172.16.50.5",
             "target_accounts": [
-                "user_3",
                 "user_1",
                 "user_0",
+                "user_3",
                 "user_2"
             ],
             "severity": "HIGH",
             "evidence": "Targeted 4 distinct accounts in 10 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -928,8 +928,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -941,8 +941,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -951,17 +951,17 @@
             "alert": "Multi-Account Authentication Attack",
             "source_ip": "172.16.50.7",
             "target_accounts": [
-                "user_3",
                 "user_1",
                 "user_0",
+                "user_3",
                 "user_2"
             ],
             "severity": "HIGH",
             "evidence": "Targeted 4 distinct accounts in 10 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -973,8 +973,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -983,17 +983,17 @@
             "alert": "Multi-Account Authentication Attack",
             "source_ip": "172.16.50.8",
             "target_accounts": [
-                "user_3",
                 "user_1",
                 "user_0",
+                "user_3",
                 "user_2"
             ],
             "severity": "HIGH",
             "evidence": "Targeted 4 distinct accounts in 10 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -1005,8 +1005,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -1018,8 +1018,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -1031,8 +1031,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -1044,8 +1044,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -1054,17 +1054,17 @@
             "alert": "Multi-Account Authentication Attack",
             "source_ip": "172.16.50.11",
             "target_accounts": [
-                "user_3",
                 "user_1",
                 "user_0",
+                "user_3",
                 "user_2"
             ],
             "severity": "HIGH",
             "evidence": "Targeted 4 distinct accounts in 10 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -1076,8 +1076,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -1086,17 +1086,17 @@
             "alert": "Multi-Account Authentication Attack",
             "source_ip": "172.16.50.12",
             "target_accounts": [
-                "user_3",
                 "user_1",
                 "user_0",
+                "user_3",
                 "user_2"
             ],
             "severity": "HIGH",
             "evidence": "Targeted 4 distinct accounts in 10 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -1108,8 +1108,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -1118,17 +1118,17 @@
             "alert": "Multi-Account Authentication Attack",
             "source_ip": "172.16.50.13",
             "target_accounts": [
-                "user_3",
                 "user_1",
                 "user_0",
+                "user_3",
                 "user_2"
             ],
             "severity": "HIGH",
             "evidence": "Targeted 4 distinct accounts in 10 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -1140,8 +1140,8 @@
             "evidence": "5 failures in 5 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 70
         },
@@ -1150,17 +1150,17 @@
             "alert": "Multi-Account Authentication Attack",
             "source_ip": "172.16.50.14",
             "target_accounts": [
-                "user_3",
                 "user_1",
                 "user_0",
+                "user_3",
                 "user_2"
             ],
             "severity": "HIGH",
             "evidence": "Targeted 4 distinct accounts in 10 mins",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -1174,8 +1174,8 @@
             "evidence": "Matched pattern for Command Injection",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -1189,8 +1189,8 @@
             "evidence": "Matched pattern for Path Traversal",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -1204,8 +1204,8 @@
             "evidence": "Matched pattern for Command Injection",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         },
@@ -1219,8 +1219,8 @@
             "evidence": "Matched pattern for Command Injection",
             "threat_intel": {
                 "abuse_score": 0,
-                "country": null,
-                "isp": null
+                "country": "Unknown",
+                "isp": "Unknown"
             },
             "risk_score": 75
         }
